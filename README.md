@@ -10,8 +10,10 @@ This Python script was built using Beautiful Soup 4 and it can be used to track 
 ### Install
 - Make sure Python3 is installed
 - In the directory where you intend to run the program, run the following command:
+
 `pip install -r requirements.txt`
 - Execute the script from the terminal (make sure you have an internet connection):
+
 `python3 tracker.py`
 
 ### Future features
